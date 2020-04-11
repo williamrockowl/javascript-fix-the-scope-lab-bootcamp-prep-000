@@ -17,7 +17,8 @@ function yourAnimal() {
   // How can we make sure that this function
   // and the above function both pass?
   // P.S.: Hard-coding 'cat' below will not work
- var j = 'cat';
+ var j = 'cat'
+ j = animal
   return animal
 }
 }
